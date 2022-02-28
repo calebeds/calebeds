@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @calebeds, Calebe Dos Santos Oliveira, live in Brazil, but open to new possibilities.
+- 👋 Hi, I’m @calebeds, Calebe Dos Santos Oliveira, live in Brazil, but opened to new possibilities.
 - 👀 I’m interested in learning new things and working on new challenges.
 - 🌱 I’m currently working as QA, and want to be a Jr Developper.
 - 💞️ I’m looking to collaborate on anything that could add value to me as a profissional.
