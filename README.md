@@ -2,7 +2,10 @@
 - 👀 I’m interested in learning new things and working on new challenges.
 - 🌱 I’m currently working as QA, and want to be a Jr Developper.
 - 💞️ I’m looking to collaborate on anything that could add value to me as a profissional.
-- 📫 How to reach me: Professional Instagram: @calebe.ds; Email: calebe.dso@gmail.com.
+- 📫 How to reach me:
+-  Professional Instagram: @calebe.ds
+-  Email: calebe.dso@gmail.com
+-  Linkedin: https://www.linkedin.com/in/calebe-ds/
 
 <!---
 calebeds/calebeds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
