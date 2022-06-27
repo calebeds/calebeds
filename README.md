@@ -1,8 +1,8 @@
-# Me, Myself and I (Inc) :)
+# Welcome to my Github page
 
 ## General
--  👋 Hi, I’m @calebeds, Calebe Dos Santos Oliveira, live in Brazil, but opened to new possibilities.
-- 🌱 I’m currently working as Full Stack Developer, mainly with Java and Angular.
+-  👋 Hi, I’m @calebeds, Calebe Dos Santos Oliveira, 24 years old, live in Brazil, but opened to new possibilities to work on new challenges anywhere around the world.
+- 🌱 I’m currently working as Full Stack Developer, mainly with Java, Node and Angular.
 
 ## 📫 How to reach me:
 -  Professional Instagram: @calebe.ds
