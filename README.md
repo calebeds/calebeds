@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been working at several backend and frontend projects, mainly with Springboot and Angular but always open to new technologies. Presently I work to a Bank migrating old systems to new technlogies, this github show some of my paralell interests.
+I've been working at several backend and frontend projects, mainly with Springboot and Angular but I'm always open to learn new technologies. Presently I work to a Bank, migrating legacy systems to new ones using the brand-new frameworks. This github showcases some of my parallel interests.
 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [calebe-oliveira.me](http://calebe-oliveira.me)
