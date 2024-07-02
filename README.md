@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Calebe Dos Santos Oliveira
 ==================================================================================================================================================
 
-Full Stack Developer
+Java Developer
 --------------------
 
-I've been working at several backend and frontend projects, mainly with Springboot and Angular but I'm always open to learn new technologies. Presently I work to a Bank, migrating legacy systems to new ones using the brand-new frameworks. This github showcases some of my parallel interests.
+I've been working at several backend projects, mainly with Springboot but I'm always open to learn new technologies. This github showcases some of my parallel interests.
 
 *   🌍  I'm based in Brazil
 *   🖥️  See my portfolio at [calebe-oliveira.me](http://calebe-oliveira.me)
 *   ✉️  You can contact me at [calebe.dso@gmail.com](mailto:calebe.dso@gmail.com)
-*   🧠  I'm learning Springboot, Messaging and Redux
+*   🧠  I'm learning Springboot, Messaging and Reactive Programming
 
 ### Skills 
 <p align="left">
