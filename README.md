@@ -2,12 +2,34 @@
 ## I'm Calebe Dos Santos Oliveira
 
 ### About Me
-I am a passionate **Java Developer** with experience in various backend projects, primarily using **Spring Boot**. I am always eager to learn new technologies and improve my skills. This GitHub repository showcases some of my parallel interests.
+🌟 I am passionate about technology and excel in dynamic environments where I can continuously learn, adapt, and grow. Currently, I work as a **Java Backend Developer at CI&T** in Brazil, where I am outsourced to an international client. My role involves developing and maintaining microservices and cloud-based solutions, ensuring high-quality, scalable, and efficient systems.
 
-- 🌍 **Location:** Brazil
-- 🖥️ **Portfolio:** [calebe-oliveira.me](http://calebe-oliveira.me)
-- ✉️ **Contact:** [calebe.dso@gmail.com](mailto:calebe.dso@gmail.com)
-- 🧠 **Current Learning:** Spring Boot, Messaging, and Reactive Programming
+🤝 I thrive in collaborative environments where teams are engaged, friendly, and committed to excellence. I believe that a strong team culture is essential for tackling big challenges, especially when welcoming new members. 
+
+#### Highlighted Achievement:
+🏆 In my current role, I contributed to a large-scale microservices project by using **K6** and **New Relic** to identify performance issues. 
+- This led to a review of our **Kubernetes** probes and load balancer configuration, enabling us to warm up Pods before handling requests. 
+- As a result, we improved initial response times by **20-30%**.
+
+🎓 I’m particularly proud of earning the **Oracle Java Foundations** and **Java 8 Developer** certifications, which reflect my dedication to mastering core Java technologies.
+
+---
+
+### Technical Expertise
+- **Programming Languages:** 
+  Java, JavaScript, TypeScript, HTML, CSS, Sass
+
+- **Frameworks:** 
+  Spring Boot, Quarkus, AngularJS, Angular 2+
+
+- **DevOps Tools:** 
+  Docker, Kubernetes, Jenkins, GitHub, GitLab, Azure
+
+- **Automated Testing:** 
+  Selenium, Vitest, Cypress, Jasmine, Karma
+
+- **Databases:** 
+  DB2, MySQL, MariaDB, Oracle, SQL Server
 
 ---
 
